@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    padding-top: 100px;
+}
+
+#textoMostrado{
+    display: none;
+}
